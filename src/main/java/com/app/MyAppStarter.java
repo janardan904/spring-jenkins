@@ -10,6 +10,7 @@ public class MyAppStarter implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("FROM RUNNER");
+		System.out.println("hiiiiiiiiiii");
 		
 	}
 }
